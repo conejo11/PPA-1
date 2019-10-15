@@ -72,6 +72,6 @@ int main(int argc, char *argv[]) {
 	mliberar(&mat_a);
 	mliberar(&mat_b);
 	// %%%%%%%%%%%%%%%%%%%%%%%% END %%%%%%%%%%%%%%%%%%%%%%%%
-
+	printf("Terminou \n");
 	return 0;
 }
